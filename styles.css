@@ -1,0 +1,23 @@
+.whole_calulator {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width:100%;
+    flex-basis:auto;
+    flex-grow:1;
+}
+
+.calc .evaluation .button_row1,
+.button_row2,
+.button_row3 {
+    display: inline-flex;
+    width: 100%;
+}
+
+.leftside {
+    width: 63%;
+}
+
+.bigbutton {
+    width: 64.5%;
+}
